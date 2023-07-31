@@ -7,7 +7,7 @@ Il progetto Blog Epicode consiste nello sviluppo di una pagina web per un blog. 
 tematiche legate al mondo dello sviluppo web e della programmazione. Si tratta solamente di una simulazione di un blog poichè la pagina è statica
 ed è stata realizzata esclusivamente tramite HTML e CSS.
 
-#àStruttura della repository
+##Struttura della repository
 La repository è organizzata nei seguenti modi:
 <ul>
   <li>
